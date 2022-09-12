@@ -1,2 +1,2 @@
 # practice_repo
-just practicing git.
+Just practicing git.
